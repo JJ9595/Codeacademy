@@ -1,0 +1,29 @@
+# 1st name Jordan and 2nd name Foster
+J='J' 
+F='F'
+
+print(5*J+" "+5*F)
+print("    "+ J+' '+F)
+print("    "+ J+' '+5*F)
+print("    "+ J+' '+F)
+print("    "+ J+' '+F)
+print("    "+ J+' '+F)
+print(4*J+'  '+F)
+F=""
+print(5*J+" "+5*F)
+print("    "+ J+' '+F)
+print("    "+ J+' '+5*F)
+print("    "+ J+' '+F)
+print("    "+ J+' '+F)
+print("    "+ J+' '+F)
+print(4*J+'  '+F)
+J=' '
+F='F'
+print(5*J+" "+5*F)
+print("    "+ J+' '+F)
+print("    "+ J+' '+5*F)
+print("    "+ J+' '+F)
+print("    "+ J+' '+F)
+print("    "+ J+' '+F)
+print(4*J+'  '+F)
+# I can speak spanish
